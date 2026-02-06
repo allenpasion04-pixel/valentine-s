@@ -46,7 +46,7 @@ no.addEventListener("click", () => {
     count++;
   } else if (count == 5) {
     gif.src = "../resources/5.crying.gif";// gif credit: https://tenor.com/view/cat-gif-10173437195524493032
-    text.innerHTML = "pls pls pls pls🥺";
+    text.innerHTML = "plsplsplspls🥺";
     yes.style.height = "90%";
     yes.style.width = "96%";
     no.style.display = "none";
@@ -57,7 +57,7 @@ no.addEventListener("click", () => {
 yes.addEventListener("click", () => {
   vid.style.display = "block";
   gif.src = "../resources/idc.gif";// gif credit: https://tenor.com/view/peach-cat-kiss-animated-love-mwah-gif-25743978
-  text.innerHTML = "thank you, baby😘";
+  text.innerHTML = "thank you, baby 😘";
   yes.style.height = "90%";
   yes.style.width = "96%";
   no.style.display = "none";
